@@ -1,3 +1,0 @@
-# A guide
-
-hopefully useful.

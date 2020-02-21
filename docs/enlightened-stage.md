@@ -17,24 +17,62 @@ In what ways does the new repertory suggest a new function for theater as a mora
 
 _Question_
 How did Shaftesbury’s notion of a “moral instinct” affect attitudes about watching theater?
+# Key Names: Class Two
 
-## Names
+### Jeremy Collier
+-
+### Earl of Shaftesbury
+-
+### Colley Cibber
+-
+### Susanna Centlivre
+-
+### Catherine Trotter
+-
+### Mary Pix
+-
+### Nicholas Rowe
+-
+### George Lillo
+-
 
-William Davenant
-Thomas Killigrew
-Nell Gwynn
-Aphra Behn
-George Etherege
-William Wycherley
-William Congreve
-Christopher Rich
 
-Additional Names
+## Additional Names
+###
+-
+###
+-
 
-## Terms
-Perpetual Patent
-Duopoly
-Drury Lane
-“Groove-and-Shutter” Scenery
+# Key Terms: Class Two
+### Sentimental Comedies
+-
+### Pathetic Tragedies
+-
+### “Moral Instinct”
+-
+### Stage Pictorialism
+-
+### Tableau
+-
+### Medial commentary
+-
 
-Additional Terms
+
+## Additional Names
+###
+-
+
+
+## The London Merchant (1731)
+George Lillo
+
+Illustrative Quotes
+Images
+First
+:
+
+Middle
+:
+
+Last
+:
