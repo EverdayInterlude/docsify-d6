@@ -1,10 +1,10 @@
----
-tags: DramaSix, class
----
-# Theater and Revolution in France, 1750-1848
 
-### Arc of the class
-### Questions to Consider
+tags: DramaSix, class
+
+# Theater and Revolution in France, 17501848
+
+Arc of the class
+Questions to Consider
 
 _Question_
 How did the romantic comedies of Marivaux and Beaumarchais set the stage for the Romanticism of the early 19th century?
@@ -20,43 +20,43 @@ In what ways was Hernani similar to and different from the Romantic drama (in it
 
 # Key Names: Class Five
 
-### Friedrich Schlegel
--
-### Ludwig Tieck
--
-### Beaumarchais
--
-### Jean-Baptiste Nicolet
--
-### Victor Hugo
--
-### Alexandre Dumas _pere_
--
+Friedrich Schlegel
+
+Ludwig Tieck
+
+Beaumarchais
+
+JeanBaptiste Nicolet
+
+Victor Hugo
+
+Alexandre Dumas _pere_
+
 
 
 ## Additional Names
 ###
--
+
 ###
--
+
 
 # Key Terms: Class Five
-### Romanticism
--
-### Jena Romantics
--
-### Great Tradition / Lesser Tradition
--
-### Pantomime
+Romanticism
+
+Jena Romantics
+
+Great Tradition / Lesser Tradition
+
+Pantomime
 
 # Key Places and Events: Class Five
 
-### Comédie-Italienne
--
-### Opéra Comique
--
-### Boulevard du Temple
--
-### Napoleon's Decree of 1807
--
-### The “Battle over Hernani”
+ComédieItalienne
+
+Opéra Comique
+
+Boulevard du Temple
+
+Napoleon's Decree of 1807
+
+The “Battle over Hernani”
