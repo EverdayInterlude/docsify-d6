@@ -10,6 +10,6 @@
     - [Battle for an American Culture](battle-american.md)
     - [Pathways to Realism](pathways-realism.md)
     - [The Modern Breakthrough](modern-breakthrough.md)
-    - [Gesamtkunstwerk](gesamtkunstwerk.md)
+    - [Gesamtkunstwerk](modern-gesamtkunstwerk.md)
     - [The Real and the Symbolic](real-symbolic.md)
     - [The Modern Mise-en-Scène](modern-miseenscene.md)
