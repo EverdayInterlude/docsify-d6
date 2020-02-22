@@ -1,8 +1,6 @@
-
-tags: DramaSix
-
-
 # The Modern Dilemma: _Gesamtkunstwerk_
+
+[example.md](_media/example.md ':include')
 
 Richard Wagner (18131883)
 
