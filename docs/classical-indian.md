@@ -1,5 +1,3 @@
-tags: DramaSix, class
-
 # Classical Performance in India: The Aesthetics of Rasa
 
 ## Key Terms
