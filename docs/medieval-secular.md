@@ -18,6 +18,10 @@ Social (Recreational) Drama
 
 ### Secular Religious Drama
 
+Instructional, Devotional, Entertaining
+
+Devotional Attention and Memory
+
 Locus and Platea
 
 Pageants and pageant wagons
